@@ -1,0 +1,1000 @@
+  375  nano ~/.bashrc 
+  376  history
+  377  ssh -p22 root@176.222.211.144
+  378  history
+  379  static_gw
+  380  sudo static_gw
+  381  sudo su
+  382  sudo su
+  383  nano ~/.bashrc 
+  384  sudo nano ~/.bashrc 
+  385  ssh -p22 root@176.222.211.144
+  386  sudo static_gw 
+  387  ps aux|grep skype
+  388  sudo kill -93193
+  389  sudo kill -9319
+  390  sudo kill -3193
+  391  sudo kill -9 3193
+  392  sudo -s
+  393  top
+  394  sudo -s
+  395  sudo -s
+  396  reboot 
+  397  htop
+  398  sudo -s
+  399  apt-get purge teamviewe*
+  400  apt-get purge teamviewer9 
+  401  cd /opt/
+  402  ls
+  403  reboot 
+  404  sudo -s
+  405  htop
+  406  /etc/init.d/lightdm stop
+  407  htop
+  408  /etc/init.d/pulseaudio stop
+  409  htop
+  410  ps aux | grep pulse
+  411  kill -9 2603
+  412  ps aux | grep pulse
+  413  htop
+  414  ps aux | grep puls
+  415  kill -9 3018
+  416  ps aux | grep puls
+  417  ps aux | grep pul
+  418  kill -9 3028
+  419  ps aux | grep pul
+  420  ps aux | grep pu
+  421  ps aux | grep pul
+  422  htop
+  423  apt-get install xubuntu-desktop 
+  424  reboot 
+  425  sudo -
+  426  sudo -s
+  427  htop
+  428  sudo -s
+  429  htop
+  430  /etc/init.d/networking stop
+  431  htop
+  432  reboot 
+  433  sudo -s
+  434  htop
+  435  gparted
+  436  usb-creator-gtk 
+  437  ;vmdkfbhf
+  438  reboot 
+  439  sido -s
+  440  siudo -s
+  441  sudo -s
+  442  apt-get purge xubuntu-desktop 
+  443  apt-get install ubuntu-de
+  444  apt-get install ubuntu-desktop
+  445  apt-get autoremove 
+  446  reboot 
+  447  sudo dpkg-reconfigure lightdm
+  448  reboot 
+  449  sudo apt-get remove abiword abiword-common abiword-plugin-grammar abiword-plugin-mathview bison blueman brltty-x11 catfish elementary-icon-theme exo-utils flex gigolo gimp gimp-data gmusicbrowser gnome-icon-theme-full gnome-system-tools gnome-time-admin gnumeric gnumeric-common gnumeric-doc gstreamer0.10-gnomevfs gthumb gthumb-data gtk2-engines-pixbuf gtk2-engines-xfce indicator-application-gtk2 indicator-messages-gtk2 indicator-sound-gtk2 indicator-status-provider-pidgin leafpad libabiword-2.8 libaiksaurus-1.2-0c2a libaiksaurus-1.2-data libaiksaurusgtk-1.2-0c2a libao-common libao4 libaudio-scrobbler-perl libbabl-0.0-0 libclutter-1.0-0 libclutter-1.0-common libclutter-gtk-1.0-0 libcogl-common libcogl5 libconfig-inifiles-perl libencode-locale-perl libept1 libexo-1-0 libexo-common libfile-listing-perl libfont-afm-perl libgarcon-1-0 libgarcon-common libgdome2-0 libgdome2-cpp-smart0c2a libgegl-0.0-0 libgimp2.0 libglade2-0 libgnomevfs2-extra libgoffice-0.8-8 libgoffice-0.8-8-common libgsf-1-114 libgsf-1-common libgstreamer-perl libgtk2-notify-perl libgtk2-trayicon-perl libgtkmathview0c2a libhtml-form-perl libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl libhtml-tree-perl libhttp-cookies-perl libhttp-daemon-perl libhttp-date-perl libhttp-message-perl libhttp-negotiate-perl libid3tag0 libido-0.1-0 libilmbase6 libio-socket-ssl-perl libjpeg-progs libkeybinder0 liblink-grammar4 libloudmouth1-0 liblwp-mediatypes-perl liblwp-protocol-https-perl libmad0 libmailtools-perl libnet-dbus-perl libnet-http-perl libnet-ssleay-perl liboobs-1-5 libopenexr6 libotr2 libots0 libpolkit-gtk-1-0 libsexy2 libtagc0 libthunarx-2-0 libtie-ixhash-perl libtimedate-perl libtumbler-1-0 liburi-perl libwv-1.2-3 libwww-perl libwww-robotrules-perl libxfce4ui-1-0 libxfce4util-bin libxfce4util-common libxfce4util4 libxfcegui4-4 libxfconf-0-2 libxml-parser-perl libxml-twig-perl libxml-xpath-perl libxss1 lightdm-gtk-greeter link-grammar-dictionaries-en m4 mpg321 murrine-themes orage parole pastebinit pidgin pidgin-data pidgin-libnotify pidgin-microblog pidgin-otr plymouth-theme-xubuntu-logo plymouth-theme-xubuntu-text python-configobj python-glade2 quadrapassel ristretto screensaver-default-images synaptic system-tools-backends tango-icon-theme tango-icon-theme-common tcl8.5 thunar thunar-archive-plugin thunar-data thunar-media-tags-plugin thunar-volman ttf-droid ttf-lyx tumbler tumbler-common xchat xchat-common xfburn xfce-keyboard-shortcuts xfce4-appfinder xfce4-cpugraph-plugin xfce4-dict xfce4-fsguard-plugin xfce4-indicator-plugin xfce4-mailwatch-plugin xfce4-mixer xfce4-mount-plugin xfce4-netload-plugin xfce4-notes xfce4-notes-plugin xfce4-notifyd xfce4-panel xfce4-places-plugin xfce4-power-manager xfce4-power-manager-data xfce4-quicklauncher-plugin xfce4-screenshooter xfce4-session xfce4-settings xfce4-smartbookmark-plugin xfce4-systemload-plugin xfce4-taskmanager xfce4-terminal xfce4-utils xfce4-verve-plugin xfce4-volumed xfce4-weather-plugin xfconf xfdesktop4 xfdesktop4-data xfwm4 xfwm4-themes xscreensaver xscreensaver-data xscreensaver-gl xubuntu-artwork xubuntu-default-settings xubuntu-desktop xubuntu-docs xubuntu-icon-theme xubuntu-wallpapers && sudo apt-get install ubuntu-desktop
+  450  sudo apt-get remove abiword abiword-common abiword-plugin-grammar abiword-plugin-mathview alacarte bison blueman brltty-x11 catfish espeak exo-utils flex fonts-droid fonts-lyx gigolo gmusicbrowser gnome-system-tools gnome-time-admin gstreamer0.10-gnomevfs gthumb gthumb-data gtk2-engines-pixbuf indicator-application-gtk2 indicator-sound-gtk2 leafpad libabiword-3.0 libbison-dev libdigest-crc-perl libexo-1-0 libexo-common libexo-helpers libfl-dev libgarcon-1-0 libgarcon-common libgdome2-0 libgdome2-cpp-smart0c2a libglade2-0 libgnomevfs2-0 libgnomevfs2-common libgnomevfs2-extra libgsf-1-114 libgsf-1-common libgstreamer-perl libgtk2-notify-perl libgtk2-trayicon-perl libgtkmathview0c2a libgtkspell0 libido-0.1-0 libindicate-gtk3 libintl-perl libjpeg-progs libjpeg-turbo-progs libkeybinder0 liblink-grammar4 libloudmouth1-0 libnet-dbus-perl liboobs-1-5 libotr2 libots0 librarian0 libsexy2 libtagc0 libthunarx-2-0 libtidy-0.99-0 libtie-ixhash-perl libtumbler-1-0 libunique-1.0-0 libvte-common libvte9 libwv-1.2-4 libxfce4ui-1-0 libxfce4ui-utils libxfce4util-bin libxfce4util-common libxfce4util6 libxfcegui4-4 libxfconf-0-2 libxml-parser-perl libxml-twig-perl libxml-xpath-perl lightdm-gtk-greeter link-grammar-dictionaries-en m4 orage parole pastebinit pavucontrol pidgin pidgin-data pidgin-libnotify pidgin-microblog pidgin-otr plymouth-theme-xubuntu-logo plymouth-theme-xubuntu-text python-configobj rarian-compat ristretto screensaver-default-images scrollkeeper shimmer-themes system-tools-backends tcl8.5 thunar thunar-archive-plugin thunar-data thunar-media-tags-plugin thunar-volman tumbler tumbler-common xbrlapi xchat xchat-common xfburn xfce-keyboard-shortcuts xfce4-appfinder xfce4-cpugraph-plugin xfce4-dict xfce4-indicator-plugin xfce4-mailwatch-plugin xfce4-netload-plugin xfce4-notes xfce4-notes-plugin xfce4-notifyd xfce4-panel xfce4-places-plugin xfce4-power-manager xfce4-power-manager-data xfce4-quicklauncher-plugin xfce4-screenshooter xfce4-session xfce4-settings xfce4-systemload-plugin xfce4-taskmanager xfce4-terminal xfce4-verve-plugin xfce4-volumed xfce4-weather-plugin xfce4-xkb-plugin xfconf xfdesktop4 xfdesktop4-data xfwm4 xscreensaver xscreensaver-data xscreensaver-gl xubuntu-artwork xubuntu-default-settings xubuntu-desktop xubuntu-docs xubuntu-icon-theme xubuntu-wallpapers && sudo apt-get install ubuntu-desktop
+  451  sudo apt-get remove abiword abiword-common abiword-plugin-grammar abiword-plugin-mathview alacarte bison blueman brltty-x11 catfish espeak exo-utils flex fonts-droid fonts-lyx gigolo gmusicbrowser gnome-system-tools gnome-time-admin gstreamer0.10-gnomevfs gthumb gthumb-data gtk2-engines-pixbuf indicator-application-gtk2 indicator-sound-gtk2 leafpad libabiword-2.9 libbison-dev libdigest-crc-perl libexo-1-0 libexo-common libexo-helpers libfl-dev libgarcon-1-0 libgarcon-common libgdome2-0 libgdome2-cpp-smart0c2a libglade2-0 libgnomevfs2-0 libgnomevfs2-common libgnomevfs2-extra libgsf-1-114 libgsf-1-common libgstreamer-perl libgtk2-notify-perl libgtk2-trayicon-perl libgtkmathview0c2a libgtkspell0 libido-0.1-0 libindicate-gtk3 libintl-perl libjpeg-progs libjpeg-turbo-progs libkeybinder0 liblink-grammar4 libloudmouth1-0 libnet-dbus-perl liboobs-1-5 libotr2 libots0 librarian0 libsexy2 libtagc0 libthunarx-2-0 libtidy-0.99-0 libtie-ixhash-perl libtumbler-1-0 libunique-1.0-0 libvte-common libvte9 libwv-1.2-4 libxfce4ui-1-0 libxfce4ui-utils libxfce4util-bin libxfce4util-common libxfce4util6 libxfcegui4-4 libxfconf-0-2 libxml-parser-perl libxml-twig-perl libxml-xpath-perl lightdm-gtk-greeter link-grammar-dictionaries-en m4 orage parole pastebinit pavucontrol pidgin pidgin-data pidgin-libnotify pidgin-microblog pidgin-otr plymouth-theme-xubuntu-logo plymouth-theme-xubuntu-text python-configobj rarian-compat ristretto screensaver-default-images scrollkeeper shimmer-themes system-tools-backends tcl8.5 thunar thunar-archive-plugin thunar-data thunar-media-tags-plugin thunar-volman ttf-droid tumbler tumbler-common xbrlapi xchat xchat-common xfburn xfce-keyboard-shortcuts xfce4-appfinder xfce4-cpugraph-plugin xfce4-dict xfce4-indicator-plugin xfce4-mailwatch-plugin xfce4-netload-plugin xfce4-notes xfce4-notes-plugin xfce4-notifyd xfce4-panel xfce4-places-plugin xfce4-power-manager xfce4-power-manager-data xfce4-quicklauncher-plugin xfce4-screenshooter xfce4-session xfce4-settings xfce4-systemload-plugin xfce4-taskmanager xfce4-terminal xfce4-verve-plugin xfce4-volumed xfce4-weather-plugin xfce4-xkb-plugin xfconf xfdesktop4 xfdesktop4-data xfwm4 xscreensaver xscreensaver-data xscreensaver-gl xubuntu-artwork xubuntu-default-settings xubuntu-desktop xubuntu-docs xubuntu-icon-theme xubuntu-wallpapers && sudo apt-get install ubuntu-desktop
+  452  sudo apt-get remove abiword abiword-common abiword-plugin-grammar abiword-plugin-mathview alacarte bison blueman brltty-x11 catfish espeak exo-utils flex fonts-droid fonts-lyx gigolo gmusicbrowser gnome-system-tools gnome-time-admin gstreamer0.10-gnomevfs gthumb gthumb-data gtk2-engines-pixbuf indicator-application-gtk2 indicator-sound-gtk2 leafpad libbison-dev libdigest-crc-perl libexo-1-0 libexo-common libexo-helpers libfl-dev libgarcon-1-0 libgarcon-common libgdome2-0 libgdome2-cpp-smart0c2a libglade2-0 libgnomevfs2-0 libgnomevfs2-common libgnomevfs2-extra libgsf-1-114 libgsf-1-common libgstreamer-perl libgtk2-notify-perl libgtk2-trayicon-perl libgtkmathview0c2a libgtkspell0 libido-0.1-0 libindicate-gtk3 libintl-perl libjpeg-progs libjpeg-turbo-progs libkeybinder0 liblink-grammar4 libloudmouth1-0 libnet-dbus-perl liboobs-1-5 libots0 librarian0 libsexy2 libtagc0 libthunarx-2-0 libtidy-0.99-0 libtie-ixhash-perl libtumbler-1-0 libunique-1.0-0 libvte-common libvte9 libwv-1.2-4 libxfce4ui-1-0 libxfce4ui-utils libxfce4util-bin libxfce4util-common libxfce4util6 libxfcegui4-4 libxfconf-0-2 libxml-parser-perl libxml-twig-perl libxml-xpath-perl lightdm-gtk-greeter link-grammar-dictionaries-en m4 orage parole pastebinit pavucontrol pidgin pidgin-data pidgin-libnotify pidgin-microblog pidgin-otr plymouth-theme-xubuntu-logo plymouth-theme-xubuntu-text python-configobj rarian-compat ristretto screensaver-default-images scrollkeeper shimmer-themes system-tools-backends tcl8.5 thunar thunar-archive-plugin thunar-data thunar-media-tags-plugin thunar-volman ttf-droid tumbler tumbler-common xbrlapi xchat xchat-common xfburn xfce-keyboard-shortcuts xfce4-appfinder xfce4-cpugraph-plugin xfce4-dict xfce4-indicator-plugin xfce4-mailwatch-plugin xfce4-netload-plugin xfce4-notes xfce4-notes-plugin xfce4-notifyd xfce4-panel xfce4-places-plugin xfce4-power-manager xfce4-power-manager-data xfce4-quicklauncher-plugin xfce4-screenshooter xfce4-session xfce4-settings xfce4-systemload-plugin xfce4-taskmanager xfce4-terminal xfce4-verve-plugin xfce4-volumed xfce4-weather-plugin xfce4-xkb-plugin xfconf xfdesktop4 xfdesktop4-data xfwm4 xscreensaver xscreensaver-data xscreensaver-gl xubuntu-artwork xubuntu-default-settings xubuntu-desktop xubuntu-docs xubuntu-icon-theme xubuntu-wallpapers && sudo apt-get install ubuntu-desktop
+  453  apt-get autoremove 
+  454  apt-get install ubuntu-desktop
+  455  dpkg-reconfigure lightdm 
+  456  reboot 
+  457  gedit
+  458  htop
+  459  ssh root@195.189.249.210
+  460  adduser alex vboxusers
+  461  sudo -s
+  462  ps aux|grep jitsi
+  463  skype -second
+  464  sudo aux|grep skype
+  465  ps aux|grep skype
+  466  kill -9 14624
+  467  ssh -p22 root@176.222.211.144
+  468  sudo shutdown -h 23:00
+  469  ssh -p22 root@176.222.211.144
+  470  cd Documents/
+  471  git clone ssh://sc@source.comfortsteel.com:2222/neb0t/jabber_client.git
+  472  cd jabber_client/
+  473  ./install.sh 
+  474  skype -seconf
+  475  skype -second
+  476  ps aux|grep skype
+  477  kill -5218
+  478  sudo kill -9 5218
+  479  sudo kill -9 5293
+  480  skype -second
+  481  ps aux|grep skype
+  482  pd aux grep
+  483  ps aux grep
+  484  ps aux|grep
+  485  ps aux
+  486  gsettings set com.canonical.Unity.Panel systray-whitelist "['all']"
+  487  sudo apt-get install sni-qt:i386
+  488  pkill skype
+  489  sudo pkill skype
+  490  ps aux|grep skype
+  491  sudo skype -second
+  492  ps aux|grep skype
+  493  sudo add-apt-repository ppa:umang/indicator-stickynotes
+  494  sudo apt-get update && sudo apt-get install indicator-stickynotes
+  495  ruby --v
+  496  ruby --version
+  497  irb
+  498  ps aux|grep skype
+  499  kill -9 2637
+  500  sudo apt-get purge skype
+  501  sudo apt-get autoremove --purge skype
+  502  dpkg -S skype
+  503  sudo apt-get purge skype
+  504  udo apt-get remove skype --purge sudo apt-get remove skype-bin --purge 
+  505  sudo apt-get remove skype --purge sudo apt-get remove skype-bin --purge 
+  506  sudo apt-get remove skype-bin --purge
+  507  sudo apt-get --purge remove skype
+  508  sudo apt-get remove skype skype-bin:i386 skype:i386
+  509  sudo apt-get install sni-qt:i386
+  510  sudo dpkg --add-architecture i386
+  511  sudo apt-get update
+  512  sudo apt-get install gdebi
+  513  wget download.skype.com/linux/skype-ubuntu-precise_4.3.0.37-1_i386.deb
+  514  sudo gdebi skype-ubuntu-precise_4.3.0.37-1_i386.deb
+  515  skype -second
+  516  sudo -second
+  517  skype -second
+  518  javac
+  519  sudo add-apt-repository ppa:webupd8team/java
+  520  javac
+  521  sudo apt-get install oracle-java8-installer  
+  522  javac
+  523  java -version
+  524  javac -version
+  525  dpkd -L java
+  526  sudo dpkg -L java
+  527  sudo dpkg -L jdk
+  528  sudo dpkg -L javac
+  529  which java
+  530  whereis java
+  531  ping spg.masterofcoe.com
+  532  ping spg.masterofcode.com
+  533  skype -second
+  534  find /usr/share/ -iregex '.*linkcti.*'
+  535  find /usr/share -iregex '.*LinkCTI.*' | sudo xargs -I @ rm @; sudo gtk-update-icon-cache "/usr/share/icons/hicolor/"; sudo update-desktop-database
+  536  cucumber
+  537  ruby -v
+  538  rvm -v
+  539  rails
+  540  rails -v
+  541  rvm list
+  542  rvm gemset list
+  543  rvm gemset use different_browser
+  544  cmd Documents/work/cucumber/
+  545  cd Documents/work/cucumber/
+  546  mkdir mini_test_all
+  547  git init
+  548  cd mini_test_all/
+  549  git init
+  550  cucumber --help
+  551  gem install cucumber
+  552  lspci
+  553  ps aux|grep firefox
+  554  sudo kill -6 3924
+  555  grep MHz /proc/cpuinfo
+  556  ps aux|grep firefox
+  557  ps aux|grep fire
+  558  ps aux|grep firefox
+  559  sudo kill -6 7854
+  560  skype -second
+  561  sudo nano /etc/resolv.conf
+  562  skype -second
+  563  ps aux|grep firefox
+  564  sudo kill -6 3902
+  565  whereis selenium
+  566  whereis Selenium
+  567  whereis Sele
+  568  selenium
+  569  whereis IDE
+  570  skype -second
+  571  sudo service network-manager restart
+  572  ps aux|grep firefox
+  573  sudo kill -6 3159
+  574  whereis test.xml
+  575  sudo nano /etc/resolv.conf
+  576  ping -s 10000 109.122.20.169
+  577  sudo bash
+  578  dmesg 
+  579  ifconfig
+  580  find /usr/share/{icons,applications} -iregex '.*LinkCTI.*' | xargs -I @ ls -l @
+  581  find /usr/share/{icons,applications} -iregex '.*LinkCTI.*' | xargs -I @ md5sum @
+  582  find /usr/share/{icons,applications} -iregex '.*LinkCTI.*' | sort | xargs -I @ md5sum @
+  583  sudo gtk-update-icon-cache "/usr/share/icons/hicolor/"; sudo update-desktop-database
+  584  sudo service network-manager restart
+  585  sudo apt-get install xprintidle
+  586  sudo rtcwake -m disk -s 60
+  587  sudo rtcwake -m no -l -t $(date +%s -d ‘tomorrow 06:45’) && The following NEW packages will be installed:
+  588  sudo rtcwake -m no -l -t $(date +%s -d ‘tomorrow 06:45’) && rhythmbox ~/Music/Quest_Pistols.mp3
+  589  sudo rtcwake -m no -l -t $(date +%s -d 'tomorrow 06:45') && rhythmbox ~/Music/Quest_Pistols.mp3
+  590  ps aux|grep firefox
+  591  sudo kill -9 18262
+  592  sudo kill -9 26100
+  593  ps aux|grep firefox
+  594  sudo kill -9 18443
+  595  skype -second
+  596  rhythmbox Quest Pistols - Санта Лючия _ Santa Lucia (Саундтрек к "Quest Pistols Show",новая "Ламбада" клубных реалий).mp3
+  597  rhythmbox Quest_Pistols.mp3
+  598  sudo rhythmbox Quest_Pistols.mp3
+  599  cd ~/Music/
+  600  LS
+  601  ls
+  602  sudo rhythmbox Quest_Pistols.mp3
+  603  ps aux|grep rhythmbox
+  604  kill -9 19674
+  605  sudo kill -9 19674
+  606  sudo kill -9 19751
+  607  ps aux|grep rhythmbox
+  608  sudo kill -9 19800
+  609  sudo kill -9 19799
+  610  ps aux|grep rhythmbox
+  611  sudo rhythmbox Quest_Pistols.mp3
+  612  ps aux|grep rhythmbox
+  613  sudo kill -9 19870
+  614  sudo kill -9 19871
+  615  ps aux|grep rhythmbox
+  616  cd ..
+  617  sudo rhythmbox Quest_Pistols.mp3
+  618  ps aux|grep rhythmbox
+  619  ifconfig
+  620  sudo service network-manager restart
+  621  ping moc1.3utilities.com
+  622  ping www.moc1.3utilities.com
+  623  ping -s 10000 109.122.20.169
+  624  sudo service openvpn start
+  625  ifconfig
+  626  sudo service openvpn stop
+  627  sudo service ipsec start
+  628  ps -ef | grep -i networkmanager
+  629  sudo nano /etc/resolv.conf
+  630  ping moc1.3utilities.com
+  631  dig moc1.3utilities.com @8.8.8.8
+  632  ping moc1.3utilities.com
+  633  skype -second
+  634  sudo apt-get install wine 
+  635  ifconfig
+  636  ps aux|grep openvpn
+  637  sudo kill -9 1662
+  638  sudo kill -9 1685
+  639  ps aux|grep openvpn
+  640  skype -second
+  641  sudo apt-get install wine 
+  642  wget http://itsecteam.com/files/havij/Havij1.15Free.rar
+  643  unrar x Havij1.15Free.rar
+  644  skype -second
+  645  cd Documents/
+  646  cd ..
+  647  ls
+  648  whereid googlesearch.xml
+  649  whereis googlesearch.xml
+  650  ls
+  651  cd Selenium\ IDE/selenium-extension/includeCommand4IDE_1_1/includeCommand4IDE_1_1/tests/'/home/alex/Selenium_IDE/selenium-extension/googlesearches.xml' '/home/alex/Selenium_IDE/selenium-extension/datadriven_v0.2/datadriven_v0.2/googlesearches.xml' 
+  652  ps aux|grep filefox
+  653  ps aux|grep firefox
+  654  sudo kill -9 4079
+  655  ps aux|grep firefox
+  656  sudo kill -9 12984
+  657  ps aux|grep goolag
+  658  ps aux|grep scanner
+  659  ps aux
+  660  top
+  661  sudo kill -9 4114
+  662  sudo kill -9 4121
+  663  sudo kill -9 4127
+  664  sudo kill -9 4137
+  665  ps aux|grep Goolag
+  666  sudo kill -9 4013
+  667  sudo kill -9 4146
+  668  skype -second
+  669  sudo wget http://deb.playonlinux.com/playonlinux_jaunty.list -O /etc/apt/sources.list.d/playonlinux.list
+  670  sudo apt-get update
+  671  sudo apt-get install playonlinux
+  672  playonlinux
+  673  sudo apt-get install gmountiso
+  674  sudo mkdir /media/alex/sims3
+  675  sudo mount -o loop=/dev/loop0 Sims3EP05.mdf /media/alex/sims3/
+  676  cd ~/
+  677  cd ~/The\ Sims\ 3\ Anthology/
+  678  sudo mount -o loop=/dev/loop0 Sims3EP05.mdf /media/alex/sims3/
+  679  cd 10\ The\ Sims\ 3\ Питомцы/
+  680  sudo mount -o loop=/dev/loop0 Sims3EP05.mdf /media/alex/sims3/
+  681  skype -second
+  682  ipconfig
+  683  ifconfig
+  684  ps aux|grep openvpn
+  685  sudo kill -91682
+  686  sudo kill -9 1682
+  687  sudo kill -9 1719
+  688  ps aux|grep openvpn
+  689  telnet
+  690  telnet alizar.habrahabr.ru 80
+  691  telnet presentain.com 80
+  692  sudo service telnet status
+  693  telnet -v
+  694  telnet -version
+  695  telnet --version
+  696  telnet presentain.com
+  697  ping moc1.3utilities.com
+  698  telnet presentain.com
+  699  skype -second
+  700  cd Selenium_IDE/
+  701  java -jar selenium-server-standalone-2.44.0.jar -h
+  702  java -jar selenium-server-standalone-2.44.0.jar -htmlSuite *firefox http://localhost/ ~/Selenium_IDE/example/test_suit.html textfinish.html
+  703  java -jar selenium-server-standalone-2.44.0.jar -htmlSuite *firefox http://spg.masterofcode.com ~/Selenium_IDE/example/test_suit.html textfinish.html
+  704  sudo apt-get update
+  705  sudo mv ~/Downloads/eclipse-java-luna-SR1a-linux-gtk-x86_64.tar.gz /opt/
+  706  cd /opt
+  707  sudo tar -xvf eclipse-java-luna-SR1a-linux-gtk-x86_64.tar.gz 
+  708  cd /usr/share/applications/
+  709  >eclipse.desktop
+  710  sudo >eclipse.desktop
+  711  cd ~/.local/share/applications
+  712  >eclipse.desktop
+  713  nano eclipse.desktop 
+  714  sudo desktop-file-install ~/.local/share/applications/eclipse.desktop 
+  715  nano eclipse.desktop 
+  716  sudo desktop-file-install ~/.local/share/applications/eclipse.desktop 
+  717  sudo ln -s /opt/eclipse/eclipse /usr/local/bin/
+  718  java -jar selenium-server-standalone-2.44.0.jar 
+  719  cd ~/Documents/java/
+  720  java -jar selenium-server-standalone-2.44.0.jar 
+  721  ifconfig
+  722  sudo ps aux|grep openvpn
+  723  sudo kill -9 2552
+  724  sudo kill -9 2627
+  725  sudo aptitude update; sudo aptitude install ekiga
+  726  sudo aptitude update
+  727  sudo apt-get update
+  728  sudo apt-get install ekiga
+  729  sudo apt-get install linphone
+  730  sudo add-apt-repository ppa:savoirfairelinux
+  731  sudo apt-get update
+  732  sudo apt-get install sflphone-kde
+  733  java -jar selenium-server-standalone-2.44.0.jar 
+  734  cd ~/Documents/java/
+  735  ls
+  736  java -jar selenium-server-standalone-2.44.0.jar 
+  737  sudo ps aux|grep openvpn
+  738  sudo kill -9 3162
+  739  sudo kill -9 3194
+  740  sudo ps aux|grep openvpn
+  741  ps aux|grep openvpn
+  742  sudo kill -9 126
+  743  sudo kill -9 1226
+  744  sudo kill -9 1726
+  745  sudo kill -9 1750
+  746  ps aux|grep openvpn
+  747  sudo kill -9 2646
+  748  sudo kill -9 2674
+  749  ps aux|grep openvpn
+  750  sudo apt-get install mono-complete
+  751  cd Documents/QA/security/app/
+  752  ls
+  753  ./Fiddler.exe 
+  754  ps aux|grep openvpn
+  755  sudo kill -92510
+  756  sudo kill -9 2510
+  757  sudo kill -9 2526
+  758  ps aux|grep openvpn
+  759  ps aux|grep firefox
+  760  sudo kill -6 4477
+  761  ifconfig 
+  762  ping ya.ru
+  763  ping 8.8.8.8
+  764  netstat -rn
+  765  dmesg 
+  766  dmesg  -T
+  767  cat /var/log/syslog
+  768  netstat -rn
+  769  top
+  770  ifconfig 
+  771  sudo bash\
+  772  sudo bash
+  773  ifconfig 
+  774  ifconfig  tun0 down
+  775  ifconfig  tun1 down
+  776  ifconfig 
+  777  ping ya.ru
+  778  ping 8.8.8.8
+  779  traceroute 8.8.8.8
+  780  ping 192.168.4.2
+  781  ping 192.168.4.1
+  782  ping 109.122.24.67
+  783  route
+  784  ping 109.122.24.67
+  785  traceroute 8.8.8.8
+  786  ping 8.8.8.8
+  787  sudo apt-get install traceroute
+  788  traceroute 8.8.8.8
+  789  route
+  790  ping 8.8.8.8
+  791  route
+  792  ./Fiddler.exe 
+  793  cd Documents/QA/security/app/
+  794  cd Documents/QA/security/fiddler/
+  795  ls
+  796  ./Fiddler.exe 
+  797  cd Documents/QA/security/fiddler/
+  798  ./Fiddler.exe 
+  799  ps aux|grep openvpn
+  800  sudo kill -6 3542
+  801  sudo kill -6 568
+  802  sudo kill -6 3568
+  803  ps aux|grep openvpn
+  804  sudo apt-get install gcc make libc6 libc6-dev
+  805  apt-get autoremove
+  806  sudo apt-get autoremove
+  807  sudo apt-get install libssl-dev zlib1g-dev libidn11
+  808  cd Documents/QA/security/
+  809  tar xzf skipfish-2.10b.tgz 
+  810  export CFLAGS="-I/usr/include/"
+  811  export LDFLAGS="-L/usr/lib/ssl/engines -L/usr/lib/ -L/usr/lib/ssl/"
+  812  cd skipfish
+  813  nice make
+  814  cd skipfish-2.10b/
+  815  nice make
+  816  cc -L/usr/lib/ssl/engines -L/usr/lib/ -L/usr/lib/ssl/ -L/usr/local/lib/ -L/opt/local/lib skipfish.c -o skipfish -O3 -Wno-format -Wall -funsigned-char -g -ggdb -I/usr/local/include/ -I/opt/local/include/ -I/usr/include/ -D_FORTIFY_SOURCE=0       http_client.c database.c crawler.c analysis.c report.c -lcrypto -lssl -lidn -lz
+  817  sudo export LDFLAGS="-L/usr/lib/ssl/engines -L/usr/lib/ -L/usr/lib/ssl/"sudo apt-get install libidn11-dev
+  818  sudo apt-get install libidn11-dev
+  819  cd skipfish
+  820  ls
+  821  make
+  822  puthon
+  823  apt-get install python
+  824  sudo apt-get install python
+  825  sudo mv /etc/apt/sources.list.d/getdeb.list.bck ~/getdeb.list.bck
+  826  cd ..
+  827  python --version
+  828  chmod 755 xampp-linux-*-installer.run
+  829  cd Documents/QA/security/course\ tesing\ security/task2/
+  830  ls
+  831  chmod 755 xampp-linux-*-installer.run
+  832  udo ./xampp-linux-*-installer.run
+  833  sudo ./xampp-linux-*-installer.run
+  834  sudo /opt/lampp/lampp restart
+  835  sudo /opt/lampp/lampp stop
+  836  sudo gedit /etc/hosts
+  837  sudo gedit /opt/lampp/etc/httpd.conf
+  838  sudo gedit /opt/lampp/etc/extra/httpd-userdir.conf
+  839  sudo /opt/lampp/lampp start
+  840  sudo mv ~/Downloads/smallcms.zip ~/
+  841  sudo mv ~/smallcms.zip //opt/lampp/wwww/8082
+  842  cd //opt/lampp/wwww/
+  843  cd 8082
+  844  unzip smallcms.zip 
+  845  sudo unzip smallcms.zip 
+  846  delete smallcms.zip 
+  847  sudo move smallcms.zip 
+  848  sudo remove smallcms.zip 
+  849  sudo rm smallcms.zip 
+  850  sudo edit /opt/lampp/properties.ini
+  851  sudo gedit /opt/lampp/properties.ini
+  852  sudo /opt/lampp/lampp status
+  853  sudo /opt/lampp/lampp start
+  854  sudo xampp run
+  855  history
+  856  sudo /opt/lampp/lampp start
+  857  sudo gedit /opt/lampp/etc/httpd.conf 
+  858  sudo /opt/lampp/lampp stop
+  859  sudo /opt/lampp/lampp start
+  860  sudo /opt/lampp/lampp stop
+  861  sudo /opt/lampp/lampp start
+  862  sudo gedit /opt/lampp/etc/httpd.conf 
+  863  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+  864  sudo /opt/lampp/lampp stop
+  865  sudo /opt/lampp/lampp start
+  866  sudo mv /opt/lampp/wwww/ /opt/lampp/www
+  867  sudo /opt/lampp/lampp stop
+  868  sudo /opt/lampp/lampp start
+  869  sudo /opt/lampp/lampp stop
+  870  sudo gedit /opt/lampp/etc/httpd.conf 
+  871  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+  872  sudo /opt/lampp/lampp stop
+  873  sudo /opt/lampp/lampp start
+  874  sudo /opt/lampp/lampp stop
+  875  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+  876  sudo gedit /opt/lampp/etc/httpd.conf 
+  877  sudo /opt/lampp/lampp start
+  878  sudo gedit /opt/lampp/etc/httpd.conf 
+  879  sudo /opt/lampp/lampp stop
+  880  sudo /opt/lampp/lampp start
+  881  sudo /opt/lampp/lampp stop
+  882  sudo gedit /opt/lampp/etc/httpd.conf 
+  883  sudo /opt/lampp/lampp stop
+  884  sudo /opt/lampp/lampp start
+  885  sudo gedit /opt/lampp/etc/extra/httpd-userdir.conf
+  886  sudo /opt/lampp/lampp stop
+  887  sudo /opt/lampp/lampp start
+  888  sudo /opt/lampp/lampp stop
+  889  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+  890  sudo /opt/lampp/lampp start
+  891  sudo /opt/lampp/lampp stop
+  892  sudo /opt/lampp/lampp start
+  893  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+  894  sudo gedit /opt/lampp/etc/httpd.conf 
+  895  sudo /opt/lampp/lampp stop
+  896  sudo /opt/lampp/lampp start
+  897  sudo /opt/lampp/lampp stop
+  898  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+  899  sudo /opt/lampp/lampp stop
+  900  sudo /opt/lampp/lampp start
+  901  sudo /opt/lampp/lampp stop
+  902  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+  903  sudo /opt/lampp/lampp start
+  904  python wa
+  905  cd Documents/QA/security/course\ tesing\ security/
+  906  ls
+  907  cd task2/
+  908  cd wapiti-2.3.0/
+  909  cd wapitiCore/
+  910  l
+  911  ls
+  912  cd ..
+  913  ls
+  914  cd bin/
+  915  cd ..
+  916  python bin/wapiti http://localhost:8082/
+  917  sudo apt-get install python-beautifulsoup
+  918  from BeautifulSoup import BeautifulSoup
+  919  sudo from BeautifulSoup import BeautifulSoup
+  920  BeautifulSoup -version
+  921  sudo BeautifulSoup -version
+  922  from bs4 import BeautifulSoup
+  923  python bin/wapiti http://localhost:8082/
+  924  python bin/wapiti https://stage3.cnsi.fr/
+  925  python bin/wapiti http://spg.masterofcode.com/login
+  926  python bin/wapiti http://localhost:8082/
+  927  python bin/wapiti http://localhost:8082/ --auth=admin%password
+  928  python wapiti 
+  929  python bin/wapiti  -v
+  930  python bin/wapiti http://localhost:8082/ -v
+  931  python bin/wapiti http://localhost:8082/ -v 1
+  932  python bin/wapit -ji http://localhost:8082/ -v 1 
+  933  python bin/wapiti 
+  934  python bin/wapiti -c file:///home/alex/Documents/QA/security/course%20tesing%20security/task2/task4  http://localhost:8082/ 
+  935  python bin/wapiti -c http://localhost:8082/ -c /home/alex/Documents/QA/security/course_tesing_security/task2/task4 
+  936  python bin/wapiti http://localhost:8082/ -c /home/alex/Documents/QA/security/course_tesing_security/task2/task4 
+  937  python bin/wapiti http://localhost:8082/ -c /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cockies.jason 
+  938  python bin/wapiti http://localhost:8082/ -c /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json 
+  939  python bin/wapiti-cookie 
+  940  python bin/wapiti-cookie  /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json http://localhost:8082
+  941  python bin/wapiti-cookie  /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json http://localhost:8082/
+  942  python bin/wapiti-cookie  /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json http://localhost:8082/index.php
+  943  cd ..
+  944  cd..
+  945  cd ..
+  946  cd task2/wapiti-2.3.0/
+  947  python bin/wapiti-cookie  /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json http://localhost:8082/index.php
+  948  cd ..
+  949  cd //
+  950  cd /
+  951  cd home/
+  952  ls
+  953  cd alex/
+  954  ls
+  955  cd Documents/QA/security/course_tesing_security/task2/
+  956  history
+  957  ls
+  958  unzip addressbook.zip
+  959  mv addressbook /opt/lampp/www/8083
+  960  sudo mv addressbook /opt/lampp/www/8083
+  961  sudo gedit /opt/lampp/etc/httpd.conf
+  962  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+  963  sudo /opt/lampp/lampp stop
+  964  sudo /opt/lampp/lampp start
+  965  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+  966  sudo /opt/lampp/lampp stop
+  967  sudo /opt/lampp/lampp start
+  968  sudo /opt/lampp/lampp stop
+  969  sudo aux|grep apache
+  970  sudo aux|grep xampp
+  971  sudo aux|grep httpd
+  972  sudo ps aux|grep httpd
+  973  sudo ps aux|grep apache
+  974  sudo ps aux|grep apache2
+  975  sudo ps aux|grep mysql
+  976  sudo ps aux|grep Apache
+  977  sudo /etc/init.d/apache2 stop
+  978  netstat -tunap | grep LISTEN
+  979  dpkg -l|grep apache
+  980  netstat -tunap | grep LISTEN
+  981  grep DocumentRoot /etc/apache2/*.conf /etc/apache2/conf.d/* /etc/apache2/sites-enabled/*
+  982  sudo ls -1 /var/www 
+  983  sudo /etc/init.d/apache2 stop
+  984  sudo /opt/lampp/xampp 
+  985  sudo /opt/lampp/xampp stop
+  986  sudo /opt/lampp/xampp start
+  987  sudo gedit /opt/lampp/etc/httpd.conf
+  988  sudo /opt/lampp/xampp stop
+  989  sudo /opt/lampp/xampp start
+  990  sudo /opt/lampp/xampp stop
+  991  sudo gedit /opt/lampp/etc/httpd.conf
+  992  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+  993  sudo /opt/lampp/xampp start
+  994  sudo gedit /opt/lampp/etc/httpd.conf
+  995  sudo /opt/lampp/xampp status
+  996  sudo /opt/lampp/xampp start
+  997  sudo /opt/lampp/xampp stop
+  998  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+  999  sudo /opt/lampp/xampp start
+ 1000  sudo /opt/lampp/xampp stop
+ 1001  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+ 1002  sudo gedit /opt/lampp/etc/httpd.conf
+ 1003  sudo /opt/lampp/xampp start
+ 1004  sudo /opt/lampp/xampp stop
+ 1005  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+ 1006  sudo /opt/lampp/xampp start
+ 1007  sudo /opt/lampp/xampp status
+ 1008  python bin/wapiti-cookie  /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json http://localhost:8082/index.php <Cookie PHPSESSID=7oc5hca2t1irl5utaa98rj9537 for 127.0.0.1:8082>
+ 1009  python bin/wapiti-cookie  /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json http://localhost:8082/index.php
+ 1010  cd /opt/lampp/etc/xampp/
+ 1011  python bin/wapiti-cookie  /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json http://localhost:8082/index.php
+ 1012  ls
+ 1013  cd ..
+ 1014  ls
+ 1015  cd extra/
+ 1016  ls
+ 1017  cd ..
+ 1018  cd /
+ 1019  ls
+ 1020  cd home/alex/Documents/QA/security/course_tesing_security/task2/wapiti-2.3.0/bin/
+ 1021  python bin/wapiti-cookie  /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json http://localhost:8082/index.php
+ 1022  ls
+ 1023  python wapiti-cookie  /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json http://localhost:8082/index.php
+ 1024  python wapiti-getcookie  /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json http://localhost:8082/index.php
+ 1025  python wapiti-getcookie  /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json http://127.0.0.1:8082/index.php
+ 1026  python wapiti http://127.0.0.1:8082 -c /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json 
+ 1027  python wapiti http://127.0.0.1:8082/ -c /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json 
+ 1028  python wapiti http://127.0.0.1:8082/ -cookie /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json 
+ 1029  python wapiti http://127.0.0.1:8082/ --cookie /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json 
+ 1030  python wapiti-getcookie  /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json http://127.0.0.1:8082
+ 1031  sudo /opt/lampp/lampp status
+ 1032  sudo /opt/lampp/lampp stop
+ 1033  sudo gedit /opt/lampp/xampp/
+ 1034  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+ 1035  sudo /opt/lampp/lampp start
+ 1036  sudo /opt/lampp/lampp stop
+ 1037  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+ 1038  sudo /opt/lampp/lampp stop
+ 1039  sudo /opt/lampp/lampp star
+ 1040  sudo /opt/lampp/lampp start
+ 1041  php
+ 1042  sudo apt-get install php5-cli
+ 1043  sudo /opt/lampp/lampp stop
+ 1044  sudo /opt/lampp/lampp start
+ 1045  php
+ 1046  php -v
+ 1047  sudo mv /home/alex/Documents/QA/security/course_tesing_security/task2/rips-0.54/ /opt/lampp/www/8081/
+ 1048  sudo mv /opt/lampp/www/8081/rips-0.54/ /opt/lampp/www/8081/rip
+ 1049  sudo /opt/lampp/lampp start
+ 1050  sudo /opt/lampp/lampp stop
+ 1051  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+ 1052  sudo /opt/lampp/lampp start
+ 1053  sudo /opt/lampp/lampp stop
+ 1054  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+ 1055  sudo /opt/lampp/lampp start
+ 1056  sudo /opt/lampp/lampp stop
+ 1057  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+ 1058  sudo mv /opt/lampp/www/8081/rip /opt/lampp/www/8081/rips
+ 1059  sudo /opt/lampp/lampp start
+ 1060  sudo /opt/lampp/lampp stop
+ 1061  sudo gedit /opt/lampp/etc/extra/httpd-vhosts.conf
+ 1062  sudo /opt/lampp/lampp start
+ 1063  cd /opt/lampp/www/8081
+ 1064  sudo chmod -R a+rw
+ 1065  ls -l
+ 1066  ls -l -a
+ 1067  cd ..
+ 1068  cd 8082
+ 1069  ls -l -a
+ 1070  cd 8081
+ 1071  cd ..
+ 1072  cd 8081
+ 1073  history
+ 1074  sudo chown -R root /opt/lampp/www/8081
+ 1075  ls -l -a
+ 1076  sudo /opt/lampp/lampp stop
+ 1077  sudo /opt/lampp/lampp start
+ 1078  sudo chmod -R 777 /opt/lampp/www/8081/
+ 1079  ls -l -a
+ 1080  sudo chmod -R a+rw
+ 1081  sudo /opt/lampp/lampp status
+ 1082  sudo /opt/lampp/lampp start
+ 1083  history
+ 1084  python bin/wapiti http://localhost:8082/
+ 1085  cd Documents/QA/security/course_tesing_security/task2/wapiti-2.3.0/
+ 1086  python bin/wapiti http://localhost:8082/
+ 1087  python wapiti http://127.0.0.1:8082/ -cookie /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json 
+ 1088  python bin/wapiti http://127.0.0.1:8082/ -cookie /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json 
+ 1089  python bin/wapiti http://127.0.0.1:8082/ -c /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json 
+ 1090  python bin/wapiti http://127.0.0.1:8082/ --cookie /home/alex/Documents/QA/security/course_tesing_security/task2/task4/cookies.json 
+ 1091  python getcookie.py cookies.txt http://127.0.0.1/vuln/?page=login
+ 1092  python bin/wapiti-getcookie.py  cookies.txt http://127.0.0.1:8082/?action=login
+ 1093  python bin/wapiti-getcookie  cookies.txt http://127.0.0.1:8082/?action=login
+ 1094  python bin/wapiti http://127.0.0.0.1:8082 -c cookies.txt -x http://127.0.0.1:8082/?action=logout
+ 1095  python bin/wapiti http://127.0.0.1:8082 -c cookies.txt -x http://127.0.0.1:8082/?action=logout
+ 1096  python bin/wapiti http://127.0.0.0.1:8082 -c cookies.txt -x http://127.0.0.1:8082/?action=logout
+ 1097  python bin/wapiti-getcookie  cookies.txt http://localhost:8082/?action=login
+ 1098  python bin/wapiti http://localhost:8082 -c cookies.txt -x http://localhost:8082/?action=logout
+ 1099  sudo apt-get update
+ 1100  а
+ 1101  sudo apt-get update
+ 1102  а
+ 1103  sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make
+ 1104  sudo apt-get update
+ 1105  sudo apt-get install ubuntu-make
+ 1106  cd ..
+ 1107  ls
+ 1108  cd ..
+ 1109  ls
+ 1110  cd ..
+ 1111  ls
+ 1112  cd skipfish-2.10b/
+ 1113  make
+ 1114  sudo make
+ 1115  sudo apt-get install libpcre3 libpcre3-dev
+ 1116  sudo apt-get install libidn11-dev
+ 1117  sudo make
+ 1118  ls
+ 1119  ./skipfish -c PHPSESSID=7oc5hca2t1irl5utaa98rj9537 -o output_folder http://www.example.com
+ 1120  ./skipfish -c PHPSESSID=7oc5hca2t1irl5utaa98rj9537 -o output_folder http://localhost:8082 -x http://localhost:8082/?action=logout
+ 1121  ./skipfish -o output_folder http://localhost:8082 -c PHPSESSID=7oc5hca2t1irl5utaa98rj9537 -x http://localhost:8082/?action=logout
+ 1122  ./skipfish -o output_folder http://localhost:8082 -c PHPSESSID=7oc5hca2t1irl5utaa98rj9537 -x /?action=logout
+ 1123  ./skipfish -o output_folder http://localhost:8082
+ 1124  cat mylogin.conf
+ 1125  cd config/
+ 1126  sudo nano example.conf 
+ 1127  $ ./skipfish --config example.conf -o output_dir http://localhost:8082
+ 1128  ./skipfish --config example.conf -o output_dir http://localhost:8082
+ 1129  cd ..
+ 1130  ./skipfish --config example.conf -o output_dir http://localhost:8082
+ 1131  sudo ./skipfish --config example.conf -o output_dir http://localhost:8082
+ 1132  sudo ./skipfish --config config/my_conf.conf -o output_dir http://localhost:8082
+ 1133  sudo ./skipfish --config my_conf.conf -o output_dir http://localhost:8082
+ 1134  sudo ./skipfish --config config/my_conf.conf -o output_dir http://localhost:8082
+ 1135  ./skipfish -o output_folder http://localhost:8082 --config config/my_conf.conf -x http://localhost:8082/?action=logout
+ 1136  ./skipfish -o output_folder http://localhost:8082 --config /config/my_conf.conf -x http://localhost:8082/?action=logout
+ 1137  ./skipfish -o output_folder http://localhost:8082 --config ../config/my_conf.conf -x http://localhost:8082/?action=logout
+ 1138  ./skipfish -o output_folder http://localhost:8082 --config my_conf.conf -x http://localhost:8082/?action=logout
+ 1139  sudo nano config/example.conf 
+ 1140  sudo ./skipfish --config config/my_conf.conf http://localhost:8082
+ 1141  sudo ./skipfish -I http://localhost:8082 --config config/my_conf.conf http://localhost:8082
+ 1142  sudo nano config/example.conf 
+ 1143  sudo ./skipfish -I http://localhost:8082 --config config/my_conf.conf http://localhost:8082 -o test
+ 1144  sudo nano config/example.conf 
+ 1145  sudo ./skipfish -I http://localhost:8082 --config config/my_conf.conf http://localhost:8082 -o test
+ 1146  ls
+ 1147  sudo rb CHANGEME/
+ 1148  sudo rv CHANGEME/
+ 1149  sudo delete  CHANGEME/
+ 1150  sudo rmdir CHANGEME/
+ 1151  sudo rf CHANGEME/
+ 1152  sudo rm -rf CHANGEME/
+ 1153  sudo ./skipfish -I http://localhost:8082 --config config/my_conf.conf http://localhost:8082 -o test
+ 1154  sudo ./skipfish -I http://localhost:8082 --config config/my_conf.conf http://localhost:8082 -o test/
+ 1155  sudo nano config/my_conf.conf 
+ 1156  sudo ./skipfish -I http://localhost:8082 --config config/my_conf.conf http://localhost:8082 -o test/
+ 1157  sudo ./skipfish -I http://localhost:8082 --config config/my_conf.conf http://localhost:8082 
+ 1158  ./skipfish -h
+ 1159  sudo ./skipfish -W test.txt -o test2 -I http://localhost:8082/  http://localhost:8082/ -C PHPSESSID=7oc5hca2t1irl5utaa98rj9537
+ 1160  sudo ./skipfish -o test2 -I http://localhost:8082/  http://localhost:8082/ -C PHPSESSID=7oc5hca2t1irl5utaa98rj9537
+ 1161  sudo ./skipfish -o test3 -I http://localhost:8082/  http://localhost:8082/ -C PHPSESSID=7oc5hca2t1irl5utaa98rj9537
+ 1162  sudo ./skipfish -o test3 -I http://localhost:8082/  http://localhost:8082/ -C PHPSESSID:7oc5hca2t1irl5utaa98rj9537
+ 1163  sudo ./skipfish -W test.txt -O test2 -I http://localhost:8082/  http://localhost:8082/ -C PHPSESSID=7oc5hca2t1irl5utaa98rj9537
+ 1164  ./skipfish -h
+ 1165  sudo ./skipfish -W test.txt -o test2/ -I http://localhost:8082/  http://localhost:8082/ -C PHPSESSID=7oc5hca2t1irl5utaa98rj9537
+ 1166  sudo ./skipfish -W test.txt -o test2 -I http://localhost:8082/  http://localhost:8082/ -C PHPSESSID=7oc5hca2t1irl5utaa98rj9537
+ 1167  sudo ./skipfish -W test.txt -o test2 -I http://localhost:8082/  http://localhost:8082/ 
+ 1168  sudo ./skipfish -I http://localhost:8082/ --config config/my_conf.conf http://localhost:8082 
+ 1169  sudo rm -rf test/
+ 1170  sudo rm -rf test2
+ 1171  sudo rm -rf test3
+ 1172  sudo nano config/example.conf 
+ 1173  sudo nano config/my_conf.conf 
+ 1174  sudo ./skipfish -I http://localhost:8082/ --config config/my_conf.conf http://localhost:8082 
+ 1175  sudo rm -rf test
+ 1176  cd /opt/lampp/lamp status
+ 1177  sudo /opt/lampp/lamp status
+ 1178  sudo /opt/lampp/lampp status
+ 1179  sudo /opt/lampp/lampp start
+ 1180  sudo ./skipfish -W empty.txt -o output_without_auth -I http://localhost:8082/ http://localhost:8082/ 
+ 1181  sudo ./skipfish -W empty.txt -o output_without_auth_again2 -I http://localhost:8082/ http://localhost:8082 
+ 1182  sudo ./skipfish -C PHPSESSID=ht25ku3os58hb089cfsu64k446 -W empty.txt -o output_with_auth -I http://localhost:8082/ http://localhost:8082 
+ 1183  sudo ./skipfish -C PHPSESSID=kq55glucprf32vc1d6fadpi810 -W empty.txt -o output_with_auth -I http://localhost:8082/ http://localhost:8082/ 
+ 1184  sudo ./skipfish -C PHPSESSID=kq55glucprf32vc1d6fadpi810 -W empty.txt -o output_with_auth_again2 -I http://localhost:8082/ http://localhost:8082/ 
+ 1185  cd Documents/QA/security/skipfish-2.10b/
+ 1186  mv output_with_auth ~/Documents/QA/security/course_tesing_security/homework/task2/task4
+ 1187  sudo mv output_with_auth ~/Documents/QA/security/course_tesing_security/homework/task2/task4
+ 1188  sudo mv output_with_auth_again2/ ~/Documents/QA/security/course_tesing_security/homework/task2/task4
+ 1189  sudo mv output_without_auth/ ~/Documents/QA/security/course_tesing_security/homework/task2/task4
+ 1190  sudo mv output_without_auth_again2/ ~/Documents/QA/security/course_tesing_security/homework/task2/task4
+ 1191  history
+ 1192  python bin/wapiti http://localhost:8082/
+ 1193  cd ~/Documents/QA/security/course_tesing_security/homework/task2/
+ 1194  python bin/wapiti http://localhost:8082/
+ 1195  cd wapiti-2.3.0/
+ 1196  python bin/wapiti http://localhost:8082/
+ 1197  cd ~/Documents/QA/security/course_tesing_security/homework/task2/task4/
+ 1198  ls
+ 1199  sudo rm -rf output_with_coocies_athome2.png 
+ 1200  sudo rm -rf output_without_auth_again2/
+ 1201  sudo rm -rf output_with_auth_again2/
+ 1202  sudo /opt/lampp/lampp 
+ 1203  sudo /opt/lampp/lampp satus
+ 1204  sudo /opt/lampp/lampp status
+ 1205  sudo /opt/lampp/lampp start
+ 1206  history
+ 1207  cd Documents/QA/security/skipfish-2.10b/
+ 1208  sudo ./skipfish -W empty.txt -o xss_addressbook -I http://localhost:8083/ http://localhost:8083
+ 1209  history
+ 1210  sudo bash
+ 1211  ping 
+ 1212  top
+ 1213  lshw --hsort
+ 1214  lshw -short
+ 1215  cd Documents/work/cucumber/
+ 1216  rvm gemset list
+ 1217  rvm gemset cucumbet use
+ 1218  rvm gemset cucumber use
+ 1219  rvm cucumber use
+ 1220  rvm gemset use cucumber
+ 1221  rvm use cucumber
+ 1222  ruby -v
+ 1223  rvm -v
+ 1224  rvm gemdir
+ 1225  rvm list
+ 1226  rvm use ruby-2.1.2
+ 1227  sudo rvm use ruby-2.1.2
+ 1228  rvm rubygems current
+ 1229  gem --version
+ 1230  rvm info
+ 1231  gem list -dl
+ 1232  set -x ; rvm --trace your_commands_here ; set +
+ 1233  rvm usage
+ 1234  sudo nano /home/alex/.bashs
+ 1235  sudo nano /home/alex/.bashrc 
+ 1236  sudo /opt/lampp/lampp start
+ 1237  source $(rvm 2. do rvm env --path)
+ 1238  ruby -v
+ 1239  source $(rvm 2.1.2 do rvm env --path)
+ 1240  history
+ 1241  rvm gemset list
+ 1242  rvm gemset use cucumber
+ 1243  cd Documents/work/cucumber/
+ 1244  cucumber
+ 1245  cucumber features/
+ 1246  cd features/
+ 1247  ls
+ 1248  cd features
+ 1249  cd ..
+ 1250  cucumber features/test.feature 
+ 1251  rvm gemset list
+ 1252  [ -z "$PS1" ] && return
+ 1253  type rvm | head -1
+ 1254  gemset list
+ 1255  gem list
+ 1256  cucumber features/test.feature 
+ 1257  cd features/
+ 1258  cucumber test.feature 
+ 1259  cucumber -help
+ 1260  cucumber test.feature --format progress
+ 1261  cucumber test.feature 
+ 1262  cd ..
+ 1263  cucumber features/test.feature 
+ 1264  cd features/
+ 1265  cucumber features/test.feature 
+ 1266  cucumber test.feature 
+ 1267  sudo ps aux|grep firefox
+ 1268  sudo kill -9 3742
+ 1269  sudo ps aux|grep firefox
+ 1270  sudo kill -9 224444
+ 1271  sudo ps aux|grep firefox
+ 1272  sudo kill -9 4024
+ 1273  sudo ps aux|grep firefox
+ 1274  sudo kill -9 4315
+ 1275  sudo ps aux|grep firefox
+ 1276  sudo kill -9 4520
+ 1277  cd Documents/QA/security/skipfish-2.10b/
+ 1278  sudo op
+ 1279  c
+ 1280  /opt/lampp/lampp status
+ 1281  /opt/lampp/lampp start
+ 1282  sudo /opt/lampp/lampp start
+ 1283  sudo aux|grep firefox
+ 1284  sudo ps aux|grep firefox
+ 1285  sudo kill -9 3849
+ 1286  sudo ps aux|grep firefox
+ 1287  sudo kill -9 4439
+ 1288  sudo ps aux|grep fireA
+ 1289  sudo kill -9 24389
+ 1290  apt-get remove --purge firefox
+ 1291  sudo apt-get autoremove --purge
+ 1292  sudo apt-get remove --purge firefox
+ 1293  sudo apt-get update
+ 1294  sudo apt-get upgrade
+ 1295  $ sudo add-apt-repository ppa:ubuntu-mozilla-security/ppa
+ 1296  $ sudo apt-repository 
+ 1297  sudo apt-get update
+ 1298  sudo apt-get install firefox
+ 1299  sudo ps aux|grep firefox
+ 1300  sudo kill -9 4299
+ 1301  sudo ps aux|grep firefox
+ 1302  sudo kill -9 4354
+ 1303  sudo ps aux|grep firefox
+ 1304  sudo kill -9 24567
+ 1305  sudo ps aux|grep firefox
+ 1306  sudo /opt/lampp/lampp status
+ 1307  sudo /opt/lampp/lampp start
+ 1308  skipfish.exe -C PHPSESSID=1moga3j8ncsmqmibcqe0b6j7q5 -W empty.txt -o output_with_auth -I http://localhost:8082/ http://localhost:8082/
+ 1309  cd Documents/QA/security/skipfish-2.10b/
+ 1310  skipfish.exe -C PHPSESSID=1moga3j8ncsmqmibcqe0b6j7q5 -W empty.txt -o task4 -I http://localhost:8082/ http://localhost:8082/
+ 1311  ls
+ 1312  ./skipfish -C PHPSESSID=1moga3j8ncsmqmibcqe0b6j7q5 -W empty.txt -o task4 -I http://localhost:8082/ http://localhost:8082/
+ 1313  ./skipfish -C PHPSESSID=1moga3j8ncsmqmibcqe0b6j7q5 -W empty.txt -o task4_without_logout -I http://localhost:8082/ http://localhost:8082/ -X http://localhost:8082/?action=logout
+ 1314  ./skipfish -C PHPSESSID=1moga3j8ncsmqmibcqe0b6j7q5 -W empty.txt -o task4_without_logout -I http://localhost:8082/ http://localhost:8082/ -X /?action=logout
+ 1315  ./skipfish -X /?action=logout -C PHPSESSID=1moga3j8ncsmqmibcqe0b6j7q5 -W empty.txt -o task4_without_logout -I http://localhost:8082/ http://localhost:8082/
+ 1316  skipfish -C "PHPSESSID=1moga3j8ncsmqmibcqe0b6j7q5" -N -X logout -W empty.txt -o task4_without_logout_www -I http://localhost:8082/www/ http://localhost:8082/www/
+ 1317  ./skipfish -C "PHPSESSID=1moga3j8ncsmqmibcqe0b6j7q5" -N -X logout -W empty.txt -o task4_without_logout_www -I http://localhost:8082/www/ http://localhost:8082/www/
+ 1318  cd ..
+ 1319  cd skipfish-2.10b/
+ 1320  ./skipfish -C "PHPSESSID=1moga3j8ncsmqmibcqe0b6j7q5" -N -X logout -W empty.txt -o task4_without_logout_www -I http://localhost:8082/www/ http://localhost:8082/www/
+ 1321  skipfish - -C "PHPSESSID=1moga3j8ncsmqmibcqe0b6j7q5" -N -W empty.txt -o task4_without_logout_www -I http://localhost:8082/www/ http://localhost:8082/www/
+ 1322  skipfish -X logout -C "PHPSESSID=1moga3j8ncsmqmibcqe0b6j7q5" -N -W empty.txt -o task4_without_logout_www -I http://localhost:8082/www/ http://localhost:8082/www/
+ 1323  ./skipfish -X logout -C "PHPSESSID=1moga3j8ncsmqmibcqe0b6j7q5" -N -W empty.txt -o task4_without_logout_www -I http://localhost:8082/www/ http://localhost:8082/www/
+ 1324  sudo ./skipfish -X logout -C "PHPSESSID=1moga3j8ncsmqmibcqe0b6j7q5" -N -W empty.txt -o task4_without_logout_www -I http://localhost:8082/www/ http://localhost:8082/www/
+ 1325  git --version
+ 1326  cd ~/Documents/work/cucumber/
+ 1327  git init
+ 1328  git help
+ 1329  git --info-path
+ 1330  git help remote
+ 1331  git remote -v
+ 1332  git help remote
+ 1333  git remote show -n
+ 1334  git remote show 
+ 1335  git remote -v
+ 1336  git remote add origin git@github.com:Karueglazki/useful_things.git
+ 1337  git remote -v
+ 1338  git status
+ 1339  touch .gitignore
+ 1340  git status
+ 1341  git remote -v
+ 1342  git status
+ 1343  git add
+ 1344  git add .
+ 1345  git status
+ 1346  git rm features/screenshot/1024to768.png
+ 1347  git rm features/screenshot/1280to1024.png
+ 1348  git rm features/screenshot/1680to1050.png
+ 1349  git status
+ 1350  git rm features/screenshot/1600to900.png
+ 1351  git status
+ 1352  git commit "resize windows"
+ 1353  git add .
+ 1354  git status
+ 1355  git commit -m "resize windows"
+ 1356  git config --global user.name "Karue-Glazki"
+ 1357* git config --global user.email "
+ 1358  git commit -m "resize windows"
+ 1359  git status
+ 1360  git push origin master 
+ 1361  ls -al ~/.ssh
+ 1362  nano ~/.ssh/id_rsa.pub 
+ 1363  sudo getedit ~/.ssh/id_rsa.pub 
+ 1364  sudo getdit ~/.ssh/id_rsa.pub 
+ 1365  sudo getidit ~/.ssh/id_rsa.pub 
+ 1366  sudo gedit ~/.ssh/id_rsa.pub 
+ 1367  ssh -T git@github.com:Karueglazki/useful_things.git
+ 1368  ssh -T git@github.com:Karueglazki
+ 1369  ssh -T git@github.com
+ 1370  git push origin master 
+ 1371  ps aux|grep firefox
+ 1372  sudo kill -9 3343
+ 1373  hostory
+ 1374  history >>history.txt
