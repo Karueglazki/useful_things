@@ -3,10 +3,12 @@
 # newer version of cucumber-rails. Consider adding your own code to a new file
 # instead of editing this one. Cucumber will automatically load all features/**/*.rb
 # files.
-
-# require 'cucumber/rails'
-require 'capybara'
+#
 require 'capybara/cucumber'
+
+ require 'capybara/poltergeist'
+#  Capybara.default_driver = :selenium
+ Capybara.default_driver = :poltergeist
 
 # Capybara defaults to CSS3 selectors rather than XPath.
 # If you'd prefer to use XPath, just uncomment this line and adjust any
@@ -14,8 +16,8 @@ require 'capybara/cucumber'
 # Capybara.default_selector = :xpath
 
 # By default, any exception happening in your Rails application will bubble up
-# to Cucumber so that your scenario will fail. This is a different from how 
-# your application behaves in the production environment, where an error page will 
+# to Cucumber so that your scenario will fail. This is a different from how
+# your application behaves in the production environment, where an error page will
 # be rendered instead.
 #
 # Sometimes we want to override this default behaviour and allow Rails to rescue
@@ -28,7 +30,6 @@ require 'capybara/cucumber'
 # 2) Set the value below to true. Beware that doing this globally is not
 # recommended as it will mask a lot of errors for you!
 #
-Capybara.default_driver = :selenium
 # ActionController::Base.allow_rescue = false
 
 # Remove/comment out the lines below if your app doesn't have a database.
