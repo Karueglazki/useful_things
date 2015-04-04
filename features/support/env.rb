@@ -7,8 +7,8 @@
 require 'capybara/cucumber'
 
  require 'capybara/poltergeist'
-#  Capybara.default_driver = :selenium
- Capybara.default_driver = :poltergeist
+  Capybara.default_driver = :selenium
+#  Capybara.default_driver = :poltergeist
 
 # Capybara defaults to CSS3 selectors rather than XPath.
 # If you'd prefer to use XPath, just uncomment this line and adjust any
