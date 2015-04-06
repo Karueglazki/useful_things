@@ -1,0 +1,182 @@
+[0,250][INFO]: COMMAND InitSession {
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "chrome.detach": true,
+      "chrome.switches": [ "--test-type" ],
+      "chromeOptions": {
+         "args": [ "--test-type" ],
+         "detach": true
+      },
+      "cssSelectorsEnabled": true,
+      "javascriptEnabled": true,
+      "nativeEvents": false,
+      "platform": "ANY",
+      "rotatable": false,
+      "takesScreenshot": false,
+      "version": ""
+   }
+}
+[0,250][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "show_welcome_page": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[0,250][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[0,250][INFO]: Launching chrome: /opt/google/chrome/google-chrome --disable-background-networking --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --disable-hang-monitor --disable-prompt-on-repost --disable-sync --disable-web-resources --enable-logging --full-memory-crash-report --ignore-certificate-errors --load-extension=/tmp/.com.google.Chrome.8CBpt5/internal --logging-level=1 --metrics-recording-only --no-first-run --password-store=basic --remote-debugging-port=12849 --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --test-type --use-mock-keychain --user-data-dir=/tmp/.com.google.Chrome.OkXAdb data:,
+[0,251][WARNING]: PAC support disabled because there is no system implementation
+[0,636][INFO]: RESPONSE InitSession {
+   "acceptSslCerts": true,
+   "applicationCacheEnabled": false,
+   "browserConnectionEnabled": false,
+   "browserName": "chrome",
+   "chrome": {
+      "userDataDir": "/tmp/.com.google.Chrome.OkXAdb"
+   },
+   "cssSelectorsEnabled": true,
+   "databaseEnabled": false,
+   "handlesAlerts": true,
+   "javascriptEnabled": true,
+   "locationContextEnabled": true,
+   "nativeEvents": true,
+   "platform": "Linux",
+   "rotatable": false,
+   "takesHeapSnapshot": true,
+   "takesScreenshot": true,
+   "version": "41.0.2272.118",
+   "webStorageEnabled": true
+}
+[0,643][INFO]: COMMAND Navigate {
+   "url": "https://google.com"
+}
+[0,674][INFO]: Waiting for pending navigations...
+[0,674][INFO]: Done waiting for pending navigations
+[0,728][INFO]: Waiting for pending navigations...
+[1,760][INFO]: Done waiting for pending navigations
+[1,760][INFO]: RESPONSE Navigate
+[1,765][INFO]: COMMAND SetWindowSize {
+   "height": 1024,
+   "width": 1280,
+   "windowHandle": "current"
+}
+[1,767][INFO]: Waiting for pending navigations...
+[1,778][INFO]: Done waiting for pending navigations
+[1,936][INFO]: RESPONSE SetWindowSize
+[1,937][INFO]: COMMAND SetWindowSize {
+   "height": 768,
+   "width": 1024,
+   "windowHandle": "current"
+}
+[2,057][INFO]: RESPONSE SetWindowSize
+[2,060][INFO]: COMMAND GetWindows {
+
+}
+[2,061][INFO]: RESPONSE GetWindows [ "CDwindow-F13C3E61-032A-44A5-9FD2-7B89472D15A8" ]
+[2,062][INFO]: COMMAND ExecuteScript {
+   "args": [  ],
+   "script": "window.open();"
+}
+[2,062][INFO]: Waiting for pending navigations...
+[2,062][INFO]: Done waiting for pending navigations
+[2,140][INFO]: Waiting for pending navigations...
+[2,140][INFO]: Done waiting for pending navigations
+[2,140][INFO]: RESPONSE ExecuteScript null
+[2,142][INFO]: COMMAND GetWindows {
+
+}
+[2,150][INFO]: RESPONSE GetWindows [ "CDwindow-F13C3E61-032A-44A5-9FD2-7B89472D15A8", "CDwindow-0710460E-F455-4F2A-866C-0295FE7934E7" ]
+[2,152][INFO]: COMMAND GetWindows {
+
+}
+[2,153][INFO]: RESPONSE GetWindows [ "CDwindow-F13C3E61-032A-44A5-9FD2-7B89472D15A8", "CDwindow-0710460E-F455-4F2A-866C-0295FE7934E7" ]
+[2,154][INFO]: COMMAND Navigate {
+   "url": "http://presentain.com"
+}
+[2,154][INFO]: Waiting for pending navigations...
+[2,154][INFO]: Done waiting for pending navigations
+[2,204][INFO]: Waiting for pending navigations...
+[3,567][INFO]: Done waiting for pending navigations
+[3,567][INFO]: RESPONSE Navigate
+[3,570][INFO]: COMMAND DeleteAllCookies {
+
+}
+[3,570][INFO]: Waiting for pending navigations...
+[3,570][INFO]: Done waiting for pending navigations
+[3,580][INFO]: Waiting for pending navigations...
+[3,580][INFO]: Done waiting for pending navigations
+[3,580][INFO]: RESPONSE DeleteAllCookies
+[3,583][INFO]: COMMAND Navigate {
+   "url": "about:blank"
+}
+[3,583][INFO]: Waiting for pending navigations...
+[3,583][INFO]: Done waiting for pending navigations
+[3,625][INFO]: Waiting for pending navigations...
+[3,635][INFO]: Done waiting for pending navigations
+[3,635][INFO]: RESPONSE Navigate
+[3,637][INFO]: COMMAND FindElements {
+   "using": "xpath",
+   "value": "/html/body/*"
+}
+[3,637][INFO]: Waiting for pending navigations...
+[3,637][INFO]: Done waiting for pending navigations
+[3,656][INFO]: Waiting for pending navigations...
+[3,656][INFO]: Done waiting for pending navigations
+[3,656][INFO]: RESPONSE FindElements [  ]
+[3,658][INFO]: COMMAND Quit {
+
+}
+[3,712][INFO]: RESPONSE Quit

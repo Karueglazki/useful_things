@@ -5,9 +5,22 @@
 # files.
 #
 require 'capybara/cucumber'
-
+require "selenium-webdriver"
  require 'capybara/poltergeist'
-  Capybara.default_driver = :selenium
+# Capybara.register_driver :chrome do |app|
+#   Capybara::Selenium::Driver.new(app, :browser => :chrome)
+# end
+
+Capybara.register_driver :chrome do |app|
+  # optional
+  client = Selenium::WebDriver::Remote::Http::Default.new
+  # optional
+  client.timeout = 120
+  # Capybara::Selenium::Driver.new(app, :browser => :chrome, :http_client => client,  :service_log_path => 'chromedriver.log',:switches => %w[--ignore-certificate-errors --disable-popup-blocking --disable-translate])
+  Capybara::Selenium::Driver.new(app, :browser => :chrome, :http_client => client,  :service_log_path => 'chromedriver.log',:switches => %w[--test-type])
+  # Selenium::WebDriver::Chrome::Service.executable_path = '/usr/local/share/chromedriver'
+end
+ Capybara.default_driver = :chrome
 #  Capybara.default_driver = :poltergeist
 
 # Capybara defaults to CSS3 selectors rather than XPath.

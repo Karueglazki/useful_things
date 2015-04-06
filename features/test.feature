@@ -1,5 +1,4 @@
 Feature: resize browser
-
   Scenario: test
     * I go to "https://google.com"
     * I resize windows
